@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MatrixMultiply</string>
+    <string name="MatrixMultiplier">MatrixMultiply</string>
+    <string name="Multiply">Multiply</string>
 </resources>
